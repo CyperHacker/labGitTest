@@ -2,6 +2,7 @@
 
 # Returns index of x in arr if present, else -1 
 def binary_search(arr, low, high, x): 
+ 
   
     # Check base case 
     if high >= low: 
