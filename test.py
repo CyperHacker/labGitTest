@@ -1,8 +1,7 @@
 # Python 3 program for recursive binary search. 
 
 # Returns index of x in arr if present, else -1 
-def binary_search(arr, low, high, x): 
- 
+def binary_search(arr, low, high, x):  
   
     # Check base case 
     if high >= low: 
